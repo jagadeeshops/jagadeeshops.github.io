@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2019 22:26:18 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 22:26:25 +0530</lastBuildDate>
     
 	<atom:link href="https://jagadeeshops.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Third</title>
+      <link>https://jagadeeshops.github.io/posts/third/</link>
+      <pubDate>Thu, 27 Jun 2019 22:26:25 +0530</pubDate>
+      
+      <guid>https://jagadeeshops.github.io/posts/third/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Second</title>
