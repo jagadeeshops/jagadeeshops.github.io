@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>https://jagadeeshops.github.io/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2019 10:41:07 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jagadeeshops.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>.vimrc</title>
-      <link>http://example.org/tags/.vimrc/</link>
+      <link>https://jagadeeshops.github.io/tags/.vimrc/</link>
       <pubDate>Thu, 27 Jun 2019 10:41:07 +0530</pubDate>
       
-      <guid>http://example.org/tags/.vimrc/</guid>
+      <guid>https://jagadeeshops.github.io/tags/.vimrc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plugins</title>
-      <link>http://example.org/tags/plugins/</link>
+      <link>https://jagadeeshops.github.io/tags/plugins/</link>
       <pubDate>Thu, 27 Jun 2019 10:41:07 +0530</pubDate>
       
-      <guid>http://example.org/tags/plugins/</guid>
+      <guid>https://jagadeeshops.github.io/tags/plugins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spf13-vim</title>
-      <link>http://example.org/tags/spf13-vim/</link>
+      <link>https://jagadeeshops.github.io/tags/spf13-vim/</link>
       <pubDate>Thu, 27 Jun 2019 10:41:07 +0530</pubDate>
       
-      <guid>http://example.org/tags/spf13-vim/</guid>
+      <guid>https://jagadeeshops.github.io/tags/spf13-vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>http://example.org/tags/vim/</link>
+      <link>https://jagadeeshops.github.io/tags/vim/</link>
       <pubDate>Thu, 27 Jun 2019 10:41:07 +0530</pubDate>
       
-      <guid>http://example.org/tags/vim/</guid>
+      <guid>https://jagadeeshops.github.io/tags/vim/</guid>
       <description></description>
     </item>
     

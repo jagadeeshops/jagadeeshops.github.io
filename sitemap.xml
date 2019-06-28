@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jagadeeshops.github.io/</loc>
     <lastmod>2019-06-27T22:26:18+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://jagadeeshops.github.io/posts/</loc>
     <lastmod>2019-06-27T22:26:18+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/second/</loc>
+    <loc>https://jagadeeshops.github.io/posts/second/</loc>
     <lastmod>2019-06-27T22:26:18+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/.vimrc/</loc>
+    <loc>https://jagadeeshops.github.io/tags/.vimrc/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jagadeeshops.github.io/categories/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>https://jagadeeshops.github.io/categories/development/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://jagadeeshops.github.io/posts/my-first-post/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2019-06-27T10:41:07+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/vim/</loc>
+    <loc>https://jagadeeshops.github.io/tags/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/plugins/</loc>
+    <loc>https://jagadeeshops.github.io/categories/vim/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/spf13-vim/</loc>
+    <loc>https://jagadeeshops.github.io/tags/plugins/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/vim/</loc>
+    <loc>https://jagadeeshops.github.io/tags/spf13-vim/</loc>
+    <lastmod>2019-06-27T10:41:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jagadeeshops.github.io/tags/vim/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
   </url>

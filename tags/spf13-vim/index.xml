@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spf13-vim on My New Hugo Site</title>
-    <link>http://example.org/tags/spf13-vim/</link>
+    <link>https://jagadeeshops.github.io/tags/spf13-vim/</link>
     <description>Recent content in spf13-vim on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2019 10:41:07 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/spf13-vim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jagadeeshops.github.io/tags/spf13-vim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://jagadeeshops.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 27 Jun 2019 10:41:07 +0530</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://jagadeeshops.github.io/posts/my-first-post/</guid>
       <description>yaml mani: kani  json { &amp;quot;mani&amp;quot;: &amp;quot;kani&amp;quot; }  The reason why there are still shops everywhere, I believe, is because people still want to see things, be inspired, and have human interaction. We want to be where the people are, where there is great energy.
 synatx highlighting { &amp;#34;mani&amp;#34;: &amp;#34;kani&amp;#34; } synatx highlighting var s = &amp;#34;JavaScript syntax highlighting&amp;#34;; alert(s);  test var s = &amp;quot;JavaScript syntax highlighting&amp;quot;; alert(s);  list  te mani  blockquote  all is good</description>
     </item>
