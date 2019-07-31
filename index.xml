@@ -6,20 +6,10 @@
     <description>Recent content on WildDog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2019 22:26:31 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 22:26:25 +0530</lastBuildDate>
     
 	<atom:link href="https://jagadeeshops.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Fourth</title>
-      <link>https://jagadeeshops.github.io/posts/fourth/</link>
-      <pubDate>Thu, 27 Jun 2019 22:26:31 +0530</pubDate>
-      
-      <guid>https://jagadeeshops.github.io/posts/fourth/</guid>
-      <description> fourth blog in making
- </description>
-    </item>
     
     <item>
       <title>Third</title>
@@ -48,6 +38,16 @@
       <guid>https://jagadeeshops.github.io/posts/my-first-post/</guid>
       <description>yaml mani: kani  json { &amp;quot;mani&amp;quot;: &amp;quot;kani&amp;quot; }  The reason why there are still shops everywhere, I believe, is because people still want to see things, be inspired, and have human interaction. We want to be where the people are, where there is great energy.
 synatx highlighting { &amp;#34;mani&amp;#34;: &amp;#34;kani&amp;#34; } synatx highlighting var s = &amp;#34;JavaScript syntax highlighting&amp;#34;; alert(s);  test var s = &amp;quot;JavaScript syntax highlighting&amp;quot;; alert(s);  list  te mani  blockquote  all is good</description>
+    </item>
+    
+    <item>
+      <title>letter to dad</title>
+      <link>https://jagadeeshops.github.io/posts/fourth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jagadeeshops.github.io/posts/fourth/</guid>
+      <description>Hi Dady,
+I am the richest daughter in the world. I am not rich because I have lots of money but am richest because I have the BEST dad in the world. Whatever am today is because of you and mom. Your unconditional love and style is something I admire Dady. There is none like you. While writing this, I recollect a photo in which your holding me in your Kawasaki bike.</description>
     </item>
     
   </channel>

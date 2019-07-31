@@ -3,25 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jagadeeshops.github.io/posts/fourth/</loc>
-    <lastmod>2019-06-27T22:26:31+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jagadeeshops.github.io/posts/</loc>
-    <lastmod>2019-06-27T22:26:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jagadeeshops.github.io/</loc>
-    <lastmod>2019-06-27T22:26:31+05:30</lastmod>
+    <lastmod>2019-06-27T22:26:25+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jagadeeshops.github.io/posts/third/</loc>
     <lastmod>2019-06-27T22:26:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jagadeeshops.github.io/</loc>
+    <lastmod>2019-06-27T22:26:25+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -80,6 +75,10 @@
     <loc>https://jagadeeshops.github.io/tags/vim/</loc>
     <lastmod>2019-06-27T10:41:07+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jagadeeshops.github.io/posts/fourth/</loc>
   </url>
   
 </urlset>
