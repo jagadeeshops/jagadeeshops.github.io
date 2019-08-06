@@ -6,10 +6,22 @@
     <description>Recent content in Posts on WildDog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2019 22:26:25 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 10:23:52 +0530</lastBuildDate>
     
 	<atom:link href="https://jagadeeshops.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Add Blogs to This Site</title>
+      <link>https://jagadeeshops.github.io/posts/how-to-add-blogs-to-this-site/</link>
+      <pubDate>Tue, 06 Aug 2019 10:23:52 +0530</pubDate>
+      
+      <guid>https://jagadeeshops.github.io/posts/how-to-add-blogs-to-this-site/</guid>
+      <description>welcome Thanks for your interest in this blog site. I Welcome you to this blog.In this blog, we will learn add a new blog to this site.
+ Lets get started!!!
+ Required softwares First things first !.. Lets see the list of all the required softwares.
+ Hugo is the framework which we are using to generate the static HTML from the markdown which we are writing. Visual Studio Code for editing the markdown files and to push the chnages to the git  Install Hugo Official page for installing hugo is here Here we will see the installation instructions for windows only because i assume thats the most used operation system.</description>
+    </item>
     
     <item>
       <title>Third</title>
@@ -42,10 +54,10 @@ synatx highlighting { &amp;#34;mani&amp;#34;: &amp;#34;kani&amp;#34; } synatx hi
     
     <item>
       <title>letter to dad</title>
-      <link>https://jagadeeshops.github.io/posts/fourth/</link>
+      <link>https://jagadeeshops.github.io/posts/letter-to-dad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jagadeeshops.github.io/posts/fourth/</guid>
+      <guid>https://jagadeeshops.github.io/posts/letter-to-dad/</guid>
       <description>Hi Dady,
 I am the richest daughter in the world. I am not rich because I have lots of money but am richest because I have the BEST dad in the world. Whatever am today is because of you and mom. Your unconditional love and style is something I admire Dady. There is none like you. While writing this, I recollect a photo in which your holding me in your Kawasaki bike.</description>
     </item>
